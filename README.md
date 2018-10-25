@@ -1,4 +1,4 @@
-"# DeepLearningByExample"
+"# DeepLearningByExample"\n
 " This is Deep Learning By Example(Packt Publishing) Code edited by ChanghwaLee"
 " Refer the each chapter's readme.txt file in Chapter[number]'s folder"
 
